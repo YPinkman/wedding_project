@@ -1,6 +1,7 @@
 # Wedding Invitation MVP
-*************使用自然语言，通过cursor生成本项目*************
-本仓库包含：
+#*************使用自然语言，通过cursor生成本项目*************
+
+#本仓库包含：
 
 * `backend/` – 基于 FastAPI + SQLModel 的后端，SQLite 持久化。
 * `frontend/` – 未来将迁移至 React + Vite，目前仍保留静态 HTML（在 `/home/yin/桌面/index.html`）。
