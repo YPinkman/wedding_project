@@ -1,5 +1,5 @@
 # Wedding Invitation MVP
-
+*************使用自然语言，通过cursor生成本项目*************
 本仓库包含：
 
 * `backend/` – 基于 FastAPI + SQLModel 的后端，SQLite 持久化。
